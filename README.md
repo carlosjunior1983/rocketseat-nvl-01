@@ -14,13 +14,17 @@ Ecoleta é um projeto proposto na semana do meio ambiente, tem como foco conecta
   * Eletrônicos
   * Resíduos orgânicos 
   * Óleo de cozinha.
-
+<br>
 
 ## Tecnologias utilizadas:
+
+`Server` `Web` `Mobile`<br>
 
 `TypeScript` `Node` `React` `React-Native` `Axios` `Express` `SQLite` `cors` `knex` `multer` `celebrate`
 
 
+<br>
+<br>
 
 ## Imagens do projeto
 <h1 align="center">
