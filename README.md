@@ -16,19 +16,23 @@ Ecoleta é um projeto proposto na semana do meio ambiente, tem como foco conecta
   * Óleo de cozinha.
 
 
-##Tecnologias utilizadas:
+## Tecnologias utilizadas:
 
 `TypeScript` `Node` `React` `React-Native` `Axios` `Express` `SQLite` `cors` `knex` `multer` `celebrate`
+
+
 
 ## Imagens do projeto
 <h1 align="center">
     <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/carlosjunior1983/rocketseat-nvl-01/blob/master/imgs-readme/web1.png"  /><br>
 </h1>
+<br>
 <h1 align="center">
     <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/carlosjunior1983/rocketseat-nvl-01/blob/master/imgs-readme/web2.png"  /><br>
 </h1>
+<br>
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/carlosjunior1983/rocketseat-nvl-01/blob/master/imgs-readme/web1.png"  /><br>
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/carlosjunior1983/rocketseat-nvl-01/blob/master/imgs-readme/mobile.png"  /><br>
 </h1>
 
 
