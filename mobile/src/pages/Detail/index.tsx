@@ -37,7 +37,8 @@ const Detail = () => {
 
 	useEffect(()=>{
 		api.get(`points/${routeParams.point_id}`).then(response => {
-			setData(response.data);
+      console.log(response.data);
+      setData(response.data);      
 		})
 	},[]);
 
@@ -69,10 +70,10 @@ const Detail = () => {
                 </TouchableOpacity>   
 
                 <Image style={styles.pointImage} source={{ uri: data.point.image_url }} />
-				<Text style={styles.pointName}>{data.point.name}</Text>
-                <Text style={styles.pointItems}>
-					{ data.items.map( item => item.title).join(', ') }
-				</Text>
+                <Text style={styles.pointName}>{data.point.name}</Text>
+                        <Text style={styles.pointItems}>
+                  { data.items.map( item => item.title).join(', ') }
+                </Text>
 
                 <View style={styles.address}>
                     <Text style={styles.addressTitle}>Endereço</Text>
