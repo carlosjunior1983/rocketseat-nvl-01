@@ -1,5 +1,5 @@
 <h2 align="center">
-  # Ecoleta
+# Ecoleta
 </h2>
 
 Projeto Ecoleta, desenvolvido na semana Next Level Week (NVL01) da Rocketseat, foram 5 dias de treinamento e conhecimento online sobre as tecnologias: Node, React e React Native.
