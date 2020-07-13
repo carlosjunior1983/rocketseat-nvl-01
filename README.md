@@ -1,10 +1,10 @@
 <h2 align="center">
-  RocketSeat - Next Level Week 01 (NLW-01)
+  Projeto Ecoleta
 </h2>
 
-5 Dias de treinamento e Conhecimento online.
+Projeto Ecoleta, desenvolvido na semana Next Level Week, da Rocketseat, foram 5 Dias de treinamento e Conhecimento online sobre as tecnologias Node, React e React Native.
 
-## Semana RocketSeat de conhecimento.
+## Descrição do projeto:
 Projeto desenvolvido: Ecoleta
 
 Ecoleta é um projeto proposto na semana do meio ambiente, tem como foco conectar pessoas com entidades responsáveis por coletar resíduos orgânicos como:
