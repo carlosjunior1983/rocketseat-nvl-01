@@ -1,8 +1,8 @@
 <h2 align="center">
-  Projeto Ecoleta
+  Ecoleta
 </h2>
 
-Projeto Ecoleta, desenvolvido na semana Next Level Week, da Rocketseat, foram 5 Dias de treinamento e Conhecimento online sobre as tecnologias Node, React e React Native.
+Projeto Ecoleta, desenvolvido na semana Next Level Week (NVL01) da Rocketseat, foram 5 dias de treinamento e conhecimento online sobre as tecnologias: Node, React e React Native.
 
 ## Descrição do projeto:
 Projeto desenvolvido: Ecoleta
@@ -38,6 +38,3 @@ Ecoleta é um projeto proposto na semana do meio ambiente, tem como foco conecta
 <h1 align="center">
     <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/carlosjunior1983/rocketseat-nvl-01/blob/master/imgs-readme/mobile.png"  /><br>
 </h1>
-
-
-www.carlosjunior.com.br
